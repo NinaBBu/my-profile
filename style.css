@@ -1,0 +1,44 @@
+body {
+      width: 21cm;
+      height: 29.7cm;
+      margin: 0 auto;
+      padding: 2cm;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      font-family: Arial, sans-serif;
+    }
+    h1, h2, p, ul, a {
+      margin-bottom: 20px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+
+
+h1{
+	color: darkred;
+	front-size:24px;
+	font-family: helvetica;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+h2{
+	color:darkblue;
+	front-size:14px;
+	font-family: helvetica
+}
+body {
+background-color: lightbeige; 
+}
+
+img{
+	border-radius:20%;
+}
